@@ -1,0 +1,58 @@
+a{
+    text-decoration: none;
+}
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+header h1{    
+    display: inline;
+    width: 100px;
+    margin-left: 100px;
+    color: white;
+}
+#banner img {
+    height: 500px;
+    padding-left: 32%;
+}
+.cabeca{
+    background-color: #0078AA;
+    padding: 30px;
+    padding-left: 10%;
+}
+.cabeca a{
+    margin-left: 33px;
+    color: white;
+}
+.material-symbols-outlined{
+    color: white;
+}
+h2{
+    font-weight: 700;
+    font-size: 45px;
+    padding-left: 40%;
+    height: 120px;
+    padding-top: 40px;
+}
+.texto{
+    font-weight: 700;
+    width: 1080px;
+    margin-left: 25%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.roda-pe{
+   background-color: #3AB4F2;
+   font-weight: 700;
+   font-family: 'Roboto', sans-serif;
+   height: 110px;
+   font-size: 18px;
+}
+.roda-pe p{
+    padding-left: 45%;
+    padding-top: 3%;
+}
+body{
+    background-color: #EFEFEF;
+}
